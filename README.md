@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @WhiteMarine14
+# 👋 Hi, I’m @WhiteMarine14
+Welcome to my GitHub profile! I am a developer learning and exploring new technology. Here's a little bit about me:
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on various open source projects.
 - 👀 I’m interested in Python, Swift, Typescript
 - 🌱 I’m currently learning Swift 
 - ⚡ Fun fact: ...
